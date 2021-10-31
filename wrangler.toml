@@ -1,0 +1,11 @@
+name = "cf-clicker"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-31"
+kv_namespaces = [
+    {binding = "cf_clicker", id = "acc8602ba8a64f4598183db782bc1207", preview_id = "907bfe8c78fd45588ea2b70f6863bb02"}
+]
